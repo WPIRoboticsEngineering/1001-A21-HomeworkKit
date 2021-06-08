@@ -11,7 +11,7 @@
 | Button              | 2             | https://www.pololu.com/product/1400 |
 | White LED           | 1             | https://www.sparkfun.com/products/9856 |
 | 2N3904 Transistor   | 2             | https://www.sparkfun.com/products/521
-| Op-Amp/Comparitor   | 2             | https://www.sparkfun.com/products/15946 |
+| Op-Amp              | 2             | https://www.digikey.com/en/products/detail/stmicroelectronics/L272/634699 |
 | Potentiometer       | 1             | https://www.sparkfun.com/products/9806 |
 | Piezo Buzzer        | 1             | https://www.pololu.com/product/1484 |
 | Servo               | 1             | https://www.pololu.com/product/3436 |
