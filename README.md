@@ -3,7 +3,7 @@
 | Name                | Quantity      | Source |
 | ----                | --------      | ------ |
 | Digital Multimeter  | 1             | https://www.sparkfun.com/products/12966 |
-| ESP32               | 2             | https://www.mouser.com/ProductDetail/356-ESP32-DEVKITC32E |
+| ESP32               | 1             | https://www.mouser.com/ProductDetail/356-ESP32-DEVKITC32E |
 | Breadboard          | 1             | https://www.pololu.com/product/4000 |
 | Wires               | 1             | https://www.pololu.com/category/29/jumper-wire-kits |
 | Breakaway Pins      | 1             | https://www.pololu.com/product/1065 |
